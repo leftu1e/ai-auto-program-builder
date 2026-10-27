@@ -1,0 +1,9 @@
+{
+    "name": "ai-auto-builder",
+    "desc": "AI自动编程打包小项目：根据需求生成完整项目代码、目录结构、打包脚本、打包说明",
+    "version": "1.0.0",
+    "author": "leftu1e",
+    "help": "发送项目需求，自动生成全套代码、项目结构、打包命令、打包教程，支持Python小程序打包exe",
+    "keywords": ["自动编程", "项目生成", "代码打包", "pyinstaller", "生成项目"],
+    "priority": 10
+}
